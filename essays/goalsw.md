@@ -13,17 +13,11 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/computer.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Why I am interested in Software Engineering*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+The reason I am interested in pursuing software engineering is because of an experience I had back in intermediate school. That was the first time I was introduced to coding through programs like Scratch, where I was able to make simple games. It was also around this time that I became hooked on playing video games, which made me curious about how they were created. Unfortunately, I didn’t have a good enough computer or the knowledge to go deeper into coding at the time. Later on, I also developed an interest in engineering, especially in areas like CAD and building things in general. Because of this, I asked my brother who is now a mechanical engineer at Ampere Computing about jobs that combine coding and engineering. He recommended software engineering, since it involves both programming and problem-solving with an engineering mindset. That conversation helped inspire me to pursue a degree in software engineering, as it connects my early interest in coding with my passion for engineering and creating things.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
+## Skills
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
@@ -31,7 +25,7 @@ Consider that one of the most popular content management systems is also conside
 
 Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
-## In the context of engineering
+## Experiances
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
@@ -39,7 +33,7 @@ The Honolulu Rail project at home has become this sort of poster child of failur
 
 The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## In the future
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
@@ -47,7 +41,7 @@ Relationships, regardless if they're romantic or not take work. Humans are fickl
 
 Relationships have always been difficult, and by nature will continue to be so.
 
-## Okay!
+## Hope of learning in class
 
 So back to the original premise; why is being one of the club officers so difficult?
 
