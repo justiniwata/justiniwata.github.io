@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bank.png
 title: "Bank UI"
 date: 2025 - 04 - 26
 published: true
@@ -12,27 +12,62 @@ labels:
 summary: "This was my project for ICS 212."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
-The purpose of this ICS 212 project was to demonstrate our ability to write code in both C and C++ also coding in unix, including the use of g++ and makefiles. This project spanned the entire course, building upon the previous homework assignments. Initially, we implemented the Bank UI to handle credit card numbers, including functionalities to save, search, print all, and delete records. Later, we converted the program from C to C++, maintaining all previous functionalities. Additionally, the C++ version introduces the use of pointers for data handling and a debug mode menu for easier testing and verification.
+The purpose of this ICS 212 project was to demonstrate our ability to write code in both C and C++, as well as to program in UH Unix, including the use of g++ and makefiles. This project spanned the entire course, building upon the previous homework assignments. Initially, we implemented the Bank UI to handle credit card numbers, addresses, search for a specific card and address, print all information, and delete records. Later, we converted the program from C to C++, maintaining all previous functionalities. Additionally, the C++ version introduces the use of pointers for data handling and a debug mode menu for easier testing and verification.
 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code from that project:
 
 ```cpp
-byte ADCRead(byte ch)
+void getAccountNum(int &accountno)
 {
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+    while (true)
+    {
+        cout << "Enter account number: ";
+        if (cin >> accountno && accountno > 0)
+        {
+            cin.ignore(100, '\n'); 
+            break;
+        }
+        else
+        {
+            cout << "Invalid input. Please enter a positive intger." << endl;
+            cin.clear( );
+            cin.ignore(1000, '\n');
+        }
+
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+}
+ 
+
+void getName(char name[ ], int size)
+{
+    bool valid = false;
+    while (!valid)
+    {
+        cout << "Enter name: ";
+        cin.getline(name, size);
+        
+        if (strlen(name) == 0)
+        {
+            cout << "Please enter a name. " << endl;
+        } 
+        else
+        {
+            valid = false;
+            for (int i = 0; name[i] != '\0'; i++)
+            {
+                if (isalpha(name[i])) 
+                {
+                     valid = true;
+                     break; 
+                }
+            }
+         
+            if (!valid)
+            {
+                cout << "Name must contains a letter. " << endl;
+            }
+        }
+    }
 }
 ```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
