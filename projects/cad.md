@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/CADPro.jpg
-title: "Bank UI"
+title: "CAD Project"
 date: 2023 - 02 - 26
 published: true
 labels:
