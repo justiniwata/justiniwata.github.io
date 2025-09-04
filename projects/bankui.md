@@ -8,6 +8,7 @@ published: true
 labels:
   - C
   - C++
+  - Unix
 summary: "This was my project for ICS 212."
 ---
 
@@ -17,7 +18,7 @@ summary: "This was my project for ICS 212."
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-The purpose of this ICS 212 project was to demonstrate our ability to write code in both C and C++, including the use of g++ and makefiles. This project spanned the entire course, building upon the previous homework assignments. Initially, we implemented the Bank UI to handle credit card numbers, including functionalities to save, search, print all, and delete records. Later, we converted the program from C to C++, maintaining all previous functionalities. Additionally, the C++ version introduces the use of pointers for data handling and a debug mode menu for easier testing and verification.
+The purpose of this ICS 212 project was to demonstrate our ability to write code in both C and C++ also coding in unix, including the use of g++ and makefiles. This project spanned the entire course, building upon the previous homework assignments. Initially, we implemented the Bank UI to handle credit card numbers, including functionalities to save, search, print all, and delete records. Later, we converted the program from C to C++, maintaining all previous functionalities. Additionally, the C++ version introduces the use of pointers for data handling and a debug mode menu for easier testing and verification.
 
 
 Here is some code that illustrates how we read values from the line sensors:
