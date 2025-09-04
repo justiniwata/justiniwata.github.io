@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Goals for SWE"
+title: "Goals for Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-04
 published: true
@@ -11,7 +11,7 @@ labels:
   - Goal
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/computer.jpg">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
