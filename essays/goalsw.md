@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Goals for SWE"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-09-04
 published: true
 labels:
   - Engineering
+  - Software Development
+  - Goal
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
