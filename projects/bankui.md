@@ -18,6 +18,7 @@ summary: "This was my project for ICS 212."
 
 The purpose of this ICS 212 project was to demonstrate our ability to write code in both C and C++, as well as to program in UH Unix, including the use of g++ and makefiles. This project spanned the entire course, building upon the previous homework assignments. Initially, we implemented the Bank UI to handle credit card numbers, addresses, search for a specific card and address, print all information, and delete records. Later, we converted the program from C to C++, maintaining all previous functionalities. Additionally, the C++ version introduces the use of pointers for data handling and a debug mode menu for easier testing and verification.
 
+One thing I learned from this project is that it took me some time to fully understand the design and requirements. I also gained experience implementing code in C and C++, as well as learning to use a new IDE on Unix through PuTTY, which connected me to UH’s computer system. Additionally, I learned how to work under time pressure and manage my time effectively, since these were homework assignments. I also gained experience implementing DEBUG mode, which helped me troubleshoot and test my code more efficiently. Furthermore, I learned how to organize multiple files into a single application so that the code runs properly and handles working inputs effectively.
 
 Here is some code from that project:
 
