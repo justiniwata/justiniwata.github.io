@@ -23,24 +23,12 @@ I hope that over time, I will continue to strengthen my skills by becoming more 
 
 ## Getting experience
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+From what I’ve observed around campus, there are many events that give students opportunities to learn and connect. For example, this week there was a meeting about technology and how companies use AI here in Hawaii. Attending events like these is a great way to gain exposure, meet new people, and start building connections. By talking to company representatives and making friends with others who share the same interests, I can work toward getting an internship or even a part-time job with one of these companies. Another valuable way to gain experience is through hands-on learning, such as working on projects or joining a coding club, which can help strengthen technical skills and provide real-world practice. 
 
 ## Career Goals
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
+My main career goal after college is to pursue a job on the mainland, since there are more opportunities available there. Another goal I want to accomplish is to live independently while working hard to establish myself and earn a good standing at the company I work for. I also want to continue gaining new programming knowledge that will help me grow in my career while building new connections that can open future opportunities. One long-term goal I hope to achieve is starting my own company, even though it may feel far-fetched right now. Lastly, I want to help my parents move from Hawaii to Oregon so they can enjoy and retire. 
 
 ## Growth in class
 
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In class, I want to gain new knowledge of TypeScript and work toward becoming a strong and adaptable software engineer. I also want to practice working under time limits and pressure through the WODs, since they help prepare me for real-world situations. Another goal is to rely less on AI and focus more on strengthening my own problem-solving skills, while also improving my understanding of programming concepts and functional programming idioms. At the same time, I want to learn how to use AI more effectively as a supportive tool rather than a replacement for my own learning.
