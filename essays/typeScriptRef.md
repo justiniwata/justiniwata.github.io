@@ -10,7 +10,7 @@ labels:
   - Crying 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescriptIMG.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescriptIMG.jpeg">
 
 *Why I am interested in Software Engineering*
 
