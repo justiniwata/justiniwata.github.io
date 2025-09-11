@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Smart Way of Asking Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-09
+date: 2025-09-10
 published: true
 labels:
   - Asking
