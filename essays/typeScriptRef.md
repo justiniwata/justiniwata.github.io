@@ -12,34 +12,22 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescriptIMG.jpeg">
 
-*Why use TypeScript?*
+## Introduction
 
-The reason I am interested in pursuing software engineering is because of an experience I had back in intermediate school. That was the first time I was introduced to coding through programs like Scratch, where I was able to make simple games. It was also around this time that I became hooked on playing video games, which made me curious about how they were created. Unfortunately, I didn’t have a good enough computer or the knowledge to go deeper into coding at the time. Later on, I also developed an interest in engineering, especially in areas like CAD and building things in general. Because of this, I asked my brother, who is now a mechanical engineer at Ampere Computing, about jobs that combine coding and engineering. He recommended software engineering, since it involves both programming and problem-solving with an engineering mindset. That conversation helped inspire me to pursue a degree in software engineering, as it connects my early interest in coding with my passion for engineering and creating things.
+Prior to this class I learned different languages over the years, like learning C, C++, JavaScript, HTML, and Python. With some of the languages that I learned, I don't like Python, but I like other programming languages like C and C++ since they're somewhat similar. Since starting ICS 314, we are required to type code in TypeScript, and I think this is the worst language that I have learned so far. TypeScript is a superset of JavaScript, but TypeScript adds static systems to help catch errors. Since this language is like JavaScript but this can catch errors early, I think it's a better version of JavaScript, but I think it's more aggravating for me to code in compared to other languages.
 
-## Learning more skills
+## How I feel about TypeScript
 
-I hope that over time, I will continue to strengthen my skills by becoming more familiar with different programming languages and applying them to new challenges. Throughout college, being exposed to various languages has taught me how important it is to adapt, practice, and keep learning. These experiences have not only helped me build a foundation in coding but have also shown me the value of problem-solving and persistence. To keep improving, I plan to take on more projects that allow me to practice and apply what I have learned, while also pushing myself to explore new tools and concepts. By continually building and refining my skills, I will be better prepared for future opportunities and more confident in my ability to grow as a software engineer.
+My feelings for TypeScript are mixed at the moment since I just learned this language, but it's a bit more annoying to implement than other coding languages. I think TypeScript is a good programming language from a software engineering perspective since it's faster since it can catch errors faster than other languages like JavaScript. I think the use of TypeScript can be more useful in bigger projects since it can catch any error fast compared to JavaScript, which is slow to catch errors. However, I think if we use TypeScript for small projects, it's less efficient since it's less useful to use. With doing practice WODs, I learned that it was quite difficult for me to code in TypeScript, but I coded my WODs in JavaScript and copied and pasted it in TypeScript. But over time, when learning more about TypeScript, I think I can determine if I like TypeScript or I hate it. 
 
-## Getting experience
+## Comparison to Different Languages
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Comparing TypeScript to different languages that I learned over the years, however, this language puts a huge workload on me since I am a little rusty in JavaScript, so my TypeScript is also bad. But I am good at coding in C and C++, but compared to TypeScript, it is a higher-level programming language and stricter than C and C++. Another language that I can compare it to is Python with TypeScript; it feels more structured since it's an object-oriented and functional program. JavaScript and TypeScript are similar since they share very similar syntax, but TypeScript adds static typing, which is more useful with projects and team collaborations. TypeScript combines all of the previous languages that I learned with many differences, with it being a more maintainable system. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## What I learned about ES6
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Since I previously learned JavaScript, it was easier for me to understand ES6. This will improve the readability and efficiency of using both TypeScript and JavaScript with variables like "let" and "const," with these already being used in both JavaScript and TypeScript. With being used in both of the languages, it helps me recognize more TypeScript. Using ES6 helps me write more modern-style and less error-prone code. I think if I put time into learning more about ES6 and its rules, it will help me understand the strictness of TypeScript so I'm not overwhelmed.
 
-## Career Goals
+## Overall Conclusion 
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Growth in class
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I think at the end of this course I can understand more and become a proper athletic software engineer with help using WODS. I think practicing the previous class WODs helps tremendously since it's almost the same ideal way of completing the WODs, and it helps me see how I can improve my WOD time and shows me experience of working under time. I think this type of teaching style is very different since I am used to in-person talks about the class slides and not reading at home before coming to class-type lectures. To me, this makes things more stressful since I don't usually have that much free time to do things. But it's somewhat enjoyable since we can go at whatever pace of learning that we want, and this kind of works for me since I can stack a whole section one at a time and get things over with already.
