@@ -14,7 +14,7 @@ labels:
 
 ## Introduction
 
-sdadd
+Communication is really important into becoming a software engineer and try to have communcation with other people. 
 
 ## StackOverflow Questions
 
