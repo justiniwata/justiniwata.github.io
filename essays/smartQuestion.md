@@ -10,7 +10,7 @@ labels:
   - Good Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/vsgcoder.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/vsgcoder.png">
 
 ## Introduction
 
