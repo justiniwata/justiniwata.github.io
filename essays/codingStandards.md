@@ -17,20 +17,20 @@ labels:
 
 ## Introduction
 
-Prior to this class I learned different languages over the years, like learning C, C++, JavaScript, HTML, and Python. With some of the languages that I learned, I don't like Python, but I like other programming languages like C and C++ since they're somewhat similar. Since starting ICS 314, we are required to type code in TypeScript, and I think this is the worst language that I have learned so far. TypeScript is a superset of JavaScript, but TypeScript adds static systems to help catch errors. Since this language is like JavaScript but this can catch errors early, I think it's a better version of JavaScript, but I think it's more aggravating for me to code in compared to other languages.
+That coding standards are 
 
-## How I feel about TypeScript
+## The Best Software Engieering Technique Coding Standards
 
-My feelings for TypeScript are mixed at the moment since I just learned this language, but it's a bit more annoying to implement than other coding languages. I think TypeScript is a good programming language from a software engineering perspective since it's faster since it can catch errors faster than other languages like JavaScript. I think the use of TypeScript can be more useful in bigger projects since it can catch any error fast compared to JavaScript, which is slow to catch errors. However, I think if we use TypeScript for small projects, it's less efficient since it's less useful to use. With doing practice WODs, I learned that it was quite difficult for me to code in TypeScript, but I coded my WODs in JavaScript and copied and pasted it in TypeScript. But over time, when learning more about TypeScript, I think I can determine if I like TypeScript or I hate it. 
+sdasdsd
 
-## Comparison to Different Languages
+## My VSCode Experience
 
-Comparing TypeScript to different languages that I learned over the years, however, this language puts a huge workload on me since I am a little rusty in JavaScript, so my TypeScript is also bad. But I am good at coding in C and C++, but compared to TypeScript, it is a higher-level programming language and stricter than C and C++. Another language that I can compare it to is Python with TypeScript; it feels more structured since it's an object-oriented and functional program. JavaScript and TypeScript are similar since they share very similar syntax, but TypeScript adds static typing, which is more useful with projects and team collaborations. TypeScript combines all of the previous languages that I learned with many differences, with it being a more maintainable system. 
+My experience with VSCode has been somewhat neutral. I have used VSCode for a long time, so I am fairly accustomed to it. However, during this course, I had to download many extensions and work with repositories from GitHub. I also learned how to use different extensions, such as ESLint and HTML Boilerplate. Since I am not very familiar with HTML, the HTML Boilerplate extension has been incredibly helpful for quickly implementing code for a website and inspecting it effectively. Additionally, GitHub Copilot has been useful for providing AI-assisted guidance and suggestions. Before this course, I didn’t realize that VSCode has a built-in terminal; I used to only write code and run it through the debug feature. Discovering the integrated terminal has been a game changer for my workflow.
 
-## What I learned about ES6
+##  My ESLint Experience
 
-Since I previously learned JavaScript, it was easier for me to understand ES6. This will improve the readability and efficiency of using both TypeScript and JavaScript with variables like "let" and "const," with these already being used in both JavaScript and TypeScript. With being used in both of the languages, it helps me recognize more TypeScript. Using ES6 helps me write more modern-style and less error-prone code. I think if I put time into learning more about ES6 and its rules, it will help me understand the strictness of TypeScript so I'm not overwhelmed.
+My experience with ESLint in VSCode has been somewhat frustrating at times. Whenever I create a new repository for a coding assignment, I often have to download the same files repeatedly. Additionally, on my computer, ESLint is restricted, so I have to use a bypass in the terminal to run npm install. Despite these annoyances, the features that ESLint provides are very helpful. Commands like npm run lint and npm run lint-fix make it easy to identify errors in the code and automatically format it according to the coding standards. However, when these features don’t work, manually fixing the errors can be tedious. We have to individually edit lines to ensure the code adheres to the standards, which can be time-consuming but ultimately reinforces good coding habits.
 
 ## Overall Conclusion 
 
-I think at the end of this course I can understand more and become a proper athletic software engineer with help using WODS. I think practicing the previous class WODs helps tremendously since it's almost the same ideal way of completing the WODs, and it helps me see how I can improve my WOD time and shows me experience of working under time. I think this type of teaching style is very different since I am used to in-person talks about the class slides and not reading at home before coming to class-type lectures. To me, this makes things more stressful since I don't usually have that much free time to do things. But it's somewhat enjoyable since we can go at whatever pace of learning that we want, and this kind of works for me since I can stack a whole section one at a time and get things over with already.
+asdasddas
