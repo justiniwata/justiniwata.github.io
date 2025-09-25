@@ -17,11 +17,11 @@ labels:
 
 ## Introduction
 
-That coding standards are 
+Coding standards often focus on details like whether to indent with two or four spaces, or whether to place a closing curly brace on a new line. To some, these rules may seem unnecessary or pedantic. However, I see them differently: coding standards are one of the most powerful tools a programmer can use to improve software quality, enhance readability, and foster personal growth as a coder. Following coding standards helps people write code that is easy to understand and share with others. It also lays the foundation for learning and applying other software engineering techniques in the future to further improve code quality.
 
 ## The Best Software Engieering Technique Coding Standards
 
-sdasdsd
+So far, I believe that if we were to implement only one software engineering technique to improve code quality, it should be coding standards. Consistent standards make code predictable and understandable, both for others and for yourself. A well-formatted and standardized codebase can prevent bugs, make debugging faster, and facilitate collaboration. Using coding standards also reinforces good programming habits. For example, ESLint enforces patterns in JavaScript that help you internalize language features and discover best practices. In this way, coding standards can accelerate learning and lead to a deeper understanding of a programming language.
 
 ## My VSCode Experience
 
@@ -33,4 +33,4 @@ My experience with ESLint in VSCode has been somewhat frustrating at times. When
 
 ## Overall Conclusion 
 
-asdasddas
+Coding standards are far from trivial. They are an essential tool for writing high quality, maintainable software, and they can even accelerate your learning as a programmer. While following rules like ESLint may feel annoying at first, the clarity, consistency, and confidence it brings to your code are worth the initial struggle. By combining coding standards with tools like VSCode, ESLint, HTML Boilerplate, and GitHub Copilot, a programmer can write cleaner, more efficient, and more professional code. If you ever wonder why spaces, tabs, or semicolons matter, remember that good coding standards are like good manners—they make the world a more readable and less chaotic place.
