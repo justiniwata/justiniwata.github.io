@@ -7,7 +7,10 @@ date: 2025-09-24
 published: false
 labels:
   - Software Development
-  - Crying 
+  - A lot of Errors
+  - Downloading
+  - ESLint
+  - VSCode
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescriptIMG.jpeg">
