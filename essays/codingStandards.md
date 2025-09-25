@@ -13,7 +13,7 @@ labels:
   - VSCode
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescriptIMG.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.jpg">
 
 ## Introduction
 
