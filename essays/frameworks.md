@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks with the power of Bootstrap"
+title: "UI Frameworks with Bootstrap's power"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-9
 published: false
