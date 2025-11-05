@@ -7,9 +7,6 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-
-# Final Project Idea: RateMyTool(s)
-
 ## Overview
 
 ### The Problem
