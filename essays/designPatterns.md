@@ -17,20 +17,54 @@ labels:
 
 ## Introduction
 
-Coding standards often focus on details like whether to indent with two or four spaces, or whether to place a closing curly brace on a new line. To some, these rules may seem unnecessary or pedantic. However, I see them differently: coding standards are one of the most powerful tools a programmer can use to improve software quality, enhance readability, and foster personal growth as a coder. Following coding standards helps people write code that is easy to understand and share with others. It also lays the foundation for learning and applying other software engineering techniques in the future to further improve code quality.
+When people imagine building a web app, they often picture typing out features one by one, like stacking blocks until a site appears. But real software—especially something meant for thousands of students—needs more than pieces placed together. It needs structure, rules, and blueprints just like a growing city. This is where design patterns come in: they are the architectural logic behind software, the reusable solutions that make a system stable even as new features, pages, or interactions pile on. I didn’t fully understand how important these patterns were until my team built our final project, RateMyTool(s), a student-driven platform for reviewing online learning tools. What looked like simple pages and forms on the surface quietly depended on deep, well-established design patterns underneath.
 
-## The Best Software Engieering Technique Coding Standards
+## The Idea of Designing Software
 
-So far, I believe that if we were to implement only one software engineering technique to improve code quality, it should be coding standards. Consistent standards make code predictable and understandable, both for others and for yourself. A well-formatted and standardized codebase can prevent bugs, make debugging faster, and facilitate collaboration. Using coding standards also reinforces good programming habits. For example, ESLint enforces patterns in JavaScript that help you internalize language features and discover best practices. In this way, coding standards can accelerate learning and lead to a deeper understanding of a programming language.
+Design patterns are the “city planning” of code. They aren’t copy-and-paste code snippets but reusable ways to solve common problems—how to create objects, how to organize data, how to manage user flow, or how to simplify connections between components. Just like every city reuses basic designs for roads, bridges, and neighborhoods, software reuses proven solutions like Controllers, Factories, Adapters, and Observers. These patterns keep the entire system from falling apart as it grows. Without them, even a small app becomes unpredictable, with files depending on each other in messy ways. With them, code becomes modular, expandable, and understandable—not only to the person who wrote it, but to anyone who joins the project later. They are the quiet backbone that holds every modern application upright.
 
-## My VSCode Experience
+## Relations to Final Project
 
-My experience with VSCode has been somewhat neutral. I have used VSCode for a long time, so I am fairly accustomed to it. However, during this course, I had to download many extensions and work with repositories from GitHub. I also learned how to use different extensions, such as ESLint and HTML Boilerplate. Since I am not very familiar with HTML, the HTML Boilerplate extension has been incredibly helpful for quickly implementing code for a website and inspecting it effectively. Additionally, GitHub Copilot has been useful for providing AI-assisted guidance and suggestions. Before this course, I didn’t realize that VSCode has a built-in terminal; I used to only write code and run it through the debug feature. Discovering the integrated terminal has been a game changer for my workflow.
+When we built RateMyTool(s), we were basically designing a small digital city for UH Manoa students—a place with profile pages, search tools, review forms, filters, and dynamic routing. And just like a city, the system needed order. For example, every time a user searched for a tool, opened a profile page, or submitted a review, the request moved through a predictable pipeline. That pipeline followed the Model–View–Controller pattern (MVC), even though we never explicitly said it. The Models (Prisma schemas) defined how data lived in the database. The Views (React pages and components) displayed what the user sees. And the Controllers (API routes) handled user actions like posting reviews or fetching tool data.
 
-##  My ESLint Experience
+RateMyTool(s) also depended heavily on the Repository Pattern, because our Prisma client acted as a clean interface for database access. Instead of writing raw SQL everywhere, we used consistent functions like prisma.tool.findMany() or prisma.review.create(). This separation kept our logic clean and made the system easier to debug and expand.
 
-My experience with ESLint in VSCode has been somewhat frustrating at times. Whenever I create a new repository for a coding assignment, I often have to download the same files repeatedly. Additionally, on my computer, ESLint is restricted, so I have to use a bypass in the terminal to run npm install. Despite these annoyances, the features that ESLint provides are very helpful. Commands like npm run lint and npm run lint-fix make it easy to identify errors in the code and automatically format it according to the coding standards. However, when these features don’t work, manually fixing the errors can be tedious. We have to individually edit lines to ensure the code adheres to the standards, which can be time-consuming but ultimately reinforces good coding habits.
+And whenever the interface needed to respond to changing user actions—typing in search, updating filters, or loading dynamic course pages—we relied on the Observer Pattern, built naturally into React’s state system. Components “reacted” to changes in state or props, updating instantly like a system of interconnected traffic lights.
+
+##  Design Patterns that Help our App 
+
+Several classic design patterns appeared clearly in our final implementation:
+
+1. Factory Pattern (Tool & Review Creation)
+
+Whenever the system created new tools, reviews, or user entries, it used clean, encapsulated creation logic through Prisma. This mirrors the Factory Pattern: you request an object, and the system builds it correctly without exposing the construction details.
+
+2. MVC Pattern (Global Structure of the App)
+
+The entire site—from landing page to profile pages—follows MVC.
+
+Models: Prisma schema + PostgreSQL database
+
+Views: Next.js / React UI components
+
+Controllers: API routes that connect user actions to the database
+
+This pattern kept our roles and responsibilities clean.
+
+3. Observer Pattern (State-Based UI Updates)
+
+React components update automatically when state changes. This is the Observer Pattern in action: components “subscribe” to data, and when the data changes, the UI updates without us needing to manually rewrite anything.
+
+4. Singleton Pattern (Database Connection)
+
+Prisma uses a single shared database instance to prevent connection overload. This is a textbook use of the Singleton Pattern—ensuring only one global database connection is ever active.
+
+5. Repository Pattern (Database Abstraction)
+
+All interactions with PostgreSQL go through structured Prisma calls, keeping database logic separate from UI logic. This made our code more maintainable and less error-prone.
+
+These patterns didn’t just make RateMyTool(s) work—they made it scalable, readable, and easy for the entire team to collaborate on.
 
 ## Overall Conclusion 
 
-Coding standards are far from trivial. They are an essential tool for writing high quality, maintainable software, and they can even accelerate your learning as a programmer. While following rules like ESLint may feel annoying at first, the clarity, consistency, and confidence it brings to your code are worth the initial struggle. By combining coding standards with tools like VSCode, ESLint, HTML Boilerplate, and GitHub Copilot, a programmer can write cleaner, more efficient, and more professional code. If you ever wonder why spaces, tabs, or semicolons matter, remember that good coding standards are like good manners—they make the world a more readable and less chaotic place.
+Looking back, design patterns weren’t just academic concepts—they were the invisible city planning that kept RateMyTool(s) from collapsing into a maze of tangled scripts and unpredictable behavior. They helped us divide work across team members, ensured our database stayed organized, and made the interface feel responsive and consistent. If I were asked in an interview what design patterns are and which ones I used, I’d say they’re reusable architectural solutions that help software grow safely—and that our project used MVC, Factory, Observer, Singleton, and Repository patterns throughout development. More importantly, I’d explain that these patterns turned a student idea into a real, functional platform. They taught me that good code isn’t just written—it’s designed.
