@@ -16,11 +16,11 @@ Artificial Intelligence (AI) has become an increasingly visible part of educatio
 
 ## Personal Experience with AI
 
-# 1. Experience WODs e.g. E18
+### 1. Experience WODs e.g. E18
 
 asdsadasdasdsad
 
-# 2. In-class Practice WODs
+### 2. In-class Practice WODs
 
 
 ## Overall Conclusion 
