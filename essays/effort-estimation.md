@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Put so much Effort and Estimation into what I have one"
+title: "Overestimating Effort"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
 published: true
