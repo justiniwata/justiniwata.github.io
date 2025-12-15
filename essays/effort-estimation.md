@@ -35,10 +35,6 @@ Actual effort was tracked using a combination of: Manual time tracking (noting s
 
 Coding effort included writing, debugging, refactoring, and integrating code, while non-coding effort included planning, research, documentation, testing, and coordination. I believe the tracking was reasonably accurate, though some undercounting may have occurred during short context switches or informal discussions. Overall, the data reflects realistic effort distribution.
 
-# Reflection 
-
-Next time, I would: Track effort in smaller increments to reduce estimation error, separate large tasks into smaller issues to improve estimation accuracy, begin tracking non-coding effort more rigorously earlier in the project, use historical data sooner instead of relying mainly on intuition in early milestones, and these changes would likely improve both estimate quality and project predictability.
-
 # AI Use 
 
 Throughout the project, I used GitHub Copilot (GPT-4 model) as an AI-assisted development tool for code completion, boilerplate generation, and debugging support. Copilot was especially helpful for repetitive or well-structured tasks such as form validation logic, CRUD-style database queries, and basic API route scaffolding.
@@ -59,3 +55,19 @@ Prompt 3 – Form Validation
 // Validate email format and password length requirements in Next.js form
 
 These prompts were typically embedded as inline comments or partial code contexts to guide Copilot’s suggestions rather than issued as standalone natural-language queries.
+
+# What I Would Change
+
+If I were to repeat this project, I would make several improvements to both my effort estimation and tracking process. First, I would break larger tasks into **smaller, more granular issues** before estimating. Several of my early estimates were off because a single issue combined multiple types of work, such as design, implementation, testing, and integration. Separating these concerns would have made estimation more accurate and effort tracking clearer. Second, I would explicitly include a **buffer for debugging, integration, and verification**, especially when using AI-assisted code generation or working with unfamiliar technologies. Over the course of the project, I learned that these activities often required 25–50% more time than initially expected and were a major source of underestimation. Third, I would improve how I track **non-coding effort**. While I recorded non-coding time, I would next time divide it into categories such as research, planning, testing, documentation, and coordination. This would provide more insight into where time is actually spent and help refine future estimates. Finally, I would rely more heavily on **historical effort data** from earlier milestones when making new estimates, rather than intuition alone. Comparing estimated versus actual effort in M1 and M2 provided valuable insight, and using that data earlier would have improved planning and workload distribution in later milestones.
+
+# Conclusion
+
+Next time, I would: Track effort in smaller increments to reduce estimation error, separate large tasks into smaller issues to improve estimation accuracy, begin tracking non-coding effort more rigorously earlier in the project, use historical data sooner instead of relying mainly on intuition in early milestones, and these changes would likely improve both estimate quality and project predictability.
+
+
+
+
+
+
+
+
