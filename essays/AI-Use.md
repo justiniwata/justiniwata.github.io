@@ -38,15 +38,15 @@ For the final project, I would use AI like Github Copilot to help with planning 
 
 ### 6. Learning a concept / tutorial
 
-I never used AI for this element. 
+I never used AI for this element. Because I want to learn the topic that the tutorial teaches me, and I don't want AI to do this for me since I am actually learning something. 
 
 ### 7. Answering a question in class or in Discord
 
-I never used AI for this element.
+I never used AI for this element. Because I don't nomraly answer any questions in the Discord nor ask questions to the professor, so I think it is kinda useless for me to use AI in this sense. 
 
 ### 8. Asking or answering a smart-question
 
-I never used AI for this element.
+I never used AI for this element. Because if I want to ask a smart question, I actually want to sound human and want to ask a acctual question rather than relying on AI to asnwer it. I would answer some samrt questions, mostly the ones I already know the answer to, so I don't need to use AI. 
 
 ### 9. Coding example e.g. “give an example of using Underscore .pluck”
 
@@ -54,7 +54,7 @@ I used AI for this with asking the prompt "give me a example of .pluck " This wa
 
 ### 10. Explaining code
 
-I never used AI for this element.
+I never used AI for this element. I don't use AI in this because I can describe to my group member for the project what the code is trying to do or trying to accomplish rather than asking AI to. 
 
 ### 11. Writing code
 
@@ -62,7 +62,7 @@ I used AI to write some of the code that I make since before learning about HTML
 
 ### 12. Documenting code
 
-I never used AI for this element.
+I never used AI for this element. If I want to document code, I have to understand what I am programming, so I need to actually understand the programming so I can document code correctly. 
 
 ### 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
 
@@ -70,7 +70,7 @@ I used AI for some stuff like "Explain this Git merge conflict and suggest how t
 
 ### 14. Other uses in ICS 314 not listed
 
-I never used AI for this element.
+I never used AI for this element. Because I only use AI for these types of things that are listed in these topics, and I didn't find any use of it outside of these topics. 
 
 ## III. Impact on Learning and Understanding
 
