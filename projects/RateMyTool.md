@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-<img src="img/ratemytools-icon.png" width="200">
+image: img/ratemytools-icon.png
+image_width: 10px
 title: "Rate My Tools"
 date: 2025 - 12 - 16
 published: true
@@ -19,9 +20,15 @@ summary: "In-class project with other people."
 
 # Overview 
 
-<img width="400px" src="../img/home-rate.png" class="rounded float-start pe-4">
+<div>
+  <img src="../img/home-rate.png"
+       width="400"
+       class="rounded float-start me-4 mb-3">
 
-The project I worked on with other people was to create a web application that allows students to rate learning tools used in their classes and see how those ratings compare with other students’ opinions across different schools. The application is connected to a backend system that collects rating data and displays it on a review page, where users can see total reviews for each tool. Users can also rate reviews using a thumbs-up or thumbs-down system to indicate whether a review was helpful. The application includes a comparison feature that allows users to compare ratings between different learning tools. There is a login restriction where users must be signed in to rate a tool, but they do not need to be signed in to rate whether a review was helpful or not. Lastly, the application includes a search engine that allows users to search for a specific tool to see its overall rating and which schools use it. Users can also search by school to see which tools were rated as helpful there.
+  <p>
+  The project I worked on with other people was to create a web application that allows students to rate learning tools used in their classes and see how those ratings compare with other students’ opinions across different schools. The application is connected to a backend system that collects rating data and displays it on a review page, where users can see total reviews for each tool. Users can also rate reviews using a thumbs-up or thumbs-down system to indicate whether a review was helpful. The application includes a comparison feature that allows users to compare ratings between different learning tools. There is a login restriction where users must be signed in to rate a tool, but they do not need to be signed in to rate whether a review was helpful or not. Lastly, the application includes a search engine that allows users to search for a specific tool to see its overall rating and which schools use it. Users can also search by school to see which tools were rated as helpful there.
+  </p>
+</div>
 
 # My Contribution 
 
