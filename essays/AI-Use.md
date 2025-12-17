@@ -4,7 +4,7 @@ type: essay
 title: "The overall Impact of AI in Class"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-13
-published: false
+published: true
 labels:
   - Software Development
   - AI
