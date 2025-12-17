@@ -15,7 +15,7 @@ labels:
   - VSCode
   - Vercel
   - Neon
-  - PrismaSQL
+  - Prisma
 summary: "In-class project with other people."
 ---
 
