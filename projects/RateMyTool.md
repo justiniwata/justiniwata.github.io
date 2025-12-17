@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ratemytools-icon.png
-image_width: 100px
+<img src="img/ratemytools-icon.png" width="200">
 title: "Rate My Tools"
 date: 2025 - 12 - 16
 published: true
