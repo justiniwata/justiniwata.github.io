@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets",
-      "keywords": [ "Windows 11", "Visual Studio Code", "Git/GitHub", "g++", "Eclipse" ]
+      "keywords": [ "Windows 11", "Visual Studio Code", "Git/GitHub", "g++", "Eclipse", "Vercel", "Prisma", "Neon", "PostgreSQL" ]
     }
   ],
   "education": [
@@ -51,7 +51,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Professor Daniel Port"
     }
   ]
 }
