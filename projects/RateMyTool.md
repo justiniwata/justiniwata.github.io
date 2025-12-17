@@ -30,7 +30,7 @@ The project I worked on with other people was to create a web application that a
 
 My contributions to this project included creating the rate page and the review page of the application. Since I was mainly responsible for the rating portion of the project, I also implemented the review page so that information from the rate page would automatically link and appear in the review section. I additionally contributed to the rating system for the review section, designing it to help users understand how trustworthy a tool and its ratings were. After completing these features, I worked on testing and integrating them with other parts of the application to make sure everything functioned correctly alongside the features developed by other group members.
 
-
+<div style="clear: both;"></div>
 
 # What I Learned
 
