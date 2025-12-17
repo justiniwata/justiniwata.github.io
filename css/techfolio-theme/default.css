@@ -56,3 +56,11 @@ a {
   object-fit: contain;
   padding: 0.75rem;
 }
+
+.project-card-img--small {
+  height: 140px;
+}
+
+.project-card-img--large {
+  height: 220px;
+}

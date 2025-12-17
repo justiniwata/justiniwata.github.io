@@ -1,7 +1,7 @@
 <div class="card mb-3">
   <div class="row g-0">
     <div class="col-sm-6 col-md-4">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}" class="rounded-start project-card-img" alt="{{ include.page.title }} thumbnail">
+      <img src="{{ site.baseurl }}/{{ include.page.image }}" class="rounded-start project-card-img{% if include.page.image_class %} {{ include.page.image_class }}{% endif %}" alt="{{ include.page.title }} thumbnail">
     </div>
     <div class="col-sm-6 col-md-8">
       <div class="card-body">

@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: img/keyboardcute.png
+image_class: project-card-img--small
 title: "Building a Keyboard"
 date: 2024 - 05 - 15
 published: true

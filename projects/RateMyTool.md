@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: img/ratemytools-icon.png
+image_class: project-card-img--large
 image_width: 10px
 title: "Rate My Tools"
 date: 2025 - 12 - 16
