@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns: How it Impacted RateMyTools"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-02
-published: true
+published: false
 labels:
   - Software Development
   - Final Project
