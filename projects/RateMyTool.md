@@ -31,6 +31,7 @@ The project I worked on with other people was to create a web application that a
 My contributions to this project included creating the rate page and the review page of the application. Since I was mainly responsible for the rating portion of the project, I also implemented the review page so that information from the rate page would automatically link and appear in the review section. I additionally contributed to the rating system for the review section, designing it to help users understand how trustworthy a tool and its ratings were. After completing these features, I worked on testing and integrating them with other parts of the application to make sure everything functioned correctly alongside the features developed by other group members.
 
 
+
 # What I Learned
 
 There were many things that I learned from this project. One of the main lessons was how to work together with other people using GitHub, especially when collaborating on shared code and resolving changes. I also learned the importance of time management, particularly working toward deadlines and trying to complete tasks within a limited time frame. Another important skill I gained was experience setting up and implementing Vercel for deployment and using a Neon database for the backend. While the technical experience was valuable, working with other people was also challenging at times. Some tasks were not completed by the time group members said they would be, which made coordination more difficult and taught me the importance of communication and flexibility in team projects.
