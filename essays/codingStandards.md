@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: Why Can’t I Leave Spaces there?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-24
-published: false
+published: true
 labels:
   - Software Development
   - A lot of Errors
